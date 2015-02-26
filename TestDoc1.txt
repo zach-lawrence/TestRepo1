@@ -8,4 +8,6 @@ Entering data from terminal 1 - 11:46
 
 
 
-Here's another line from terminal 1
+Here's another line from terminal 1Here's another line from terminal 1
+Changing same line on terminal 2 - 11:46
+Line 6 from terminal 2
